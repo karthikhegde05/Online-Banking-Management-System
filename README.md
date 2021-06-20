@@ -8,13 +8,13 @@ The project is a simulation of the online banking system. The server handles eac
 - Semaphores
 - File manipulations and File locking mechanism
 
-### Powers enjoyed by the admin:
+### Functionalities available to admin:
 - Adding other users
 - Deleting other users
 - Searching for a user
 - Modifying the details of the user
 
-### Powers enjoyed by the normal and joint users:
+### Functionalities available to normal and joint users:
 - Depositing and withdrawing money
 - Balance enquiry option
 - Password change option
