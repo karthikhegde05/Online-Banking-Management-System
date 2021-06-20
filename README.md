@@ -28,7 +28,7 @@ The project is a simulation of the online banking system. The server handles eac
 make clean
 make 
 
-Server 9800 
+./Server 9800 
 ```
 
 #### Starting the client program
